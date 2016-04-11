@@ -1,0 +1,140 @@
+.wrap{
+  width: 800px;
+  margin: 0 auto;
+}
+.logo{
+  padding-right: 20px;
+  float: left;
+  padding-top: 35px;
+}
+.menu-1{
+  float: left;
+  text-align: center;
+  padding-right: 9px;
+  padding-left: 20px;
+}
+.menu-2{
+  float: left;
+  text-align: center;
+  padding-right: 9px;
+  padding-left: 9px;
+}
+.menu-3{
+  float: left;
+  text-align: center;
+  padding-right: 9px;
+  padding-left: 9px;
+}
+.menu-4{
+  float: left;
+  text-align: center;
+  padding-right: 9px;
+  padding-left: 9px;
+}
+.menu-5{
+  float: left;
+  text-align: center;
+  padding-right: 9px;
+  padding-left: 9px;
+}
+.content{
+  margin-bottom: 15px;
+  border-style: solid;
+  border-width: 1px;
+  border-color: #DDDDDD;
+}
+.text{
+  width: 505px;
+  background: #fff;
+  margin-right: 20px;
+  color: #000;
+  padding-left: 20px;
+  padding-top: 5px;
+  padding-bottom: 10px;
+  float:left;
+  
+}
+.picture{
+  width: 250px;
+  background: white;
+  float: right;
+  padding-top:10px;
+}
+.product-1{
+  width: 225px;
+  background: #CCEEFF;
+  float: left;
+  padding-top:10px;
+  margin-right: 12px;
+  margin-left: 12px;
+  padding-right: 7.5px;
+  padding-left: 7.5px;
+  padding-bottom: 20px;
+  margin-bottom: 20px;
+  border-radius: 10px;
+  border-style: solid;
+  border-width: 1px;
+  border-color: #DDDDDD;
+  text-align: center;
+}
+.product-2{
+  width: 225px;
+  background: #CCEEFF;
+  float: left;
+  padding-top:10px;
+  margin-right: 12px;
+  margin-left: 12px;
+  padding-right: 7.5px;
+  padding-left: 7.5px;
+  padding-bottom: 20px;
+  margin-bottom: 20px;
+  border-radius: 10px;
+  border-style: solid;
+  border-width: 1px;
+  border-color: #DDDDDD;
+  text-align: center;
+}
+.product-3{
+  width: 225px;
+  background: #CCEEFF;
+  float: left;
+  padding-top:10px;
+  margin-right: 12px;
+  margin-left: 12px;
+  padding-right: 7.5px;
+  padding-left: 7.5px;
+  padding-bottom: 20px;
+  margin-bottom: 20px;
+  border-radius: 10px;
+  border-style: solid;
+  border-width: 1px;
+  border-color: #DDDDDD;
+  text-align: center;
+}
+.clear{
+  clear:both;
+}
+.header{
+  background: white;
+  height: 90px;
+  margin-bottom: 30px;
+}
+.footer{
+  height: 200px;
+  background: white;
+}
+h1{
+  font-size: 22px;
+  text-decoration:underline;
+  font-family: arial; 
+  color: #009fcc;
+}
+p{
+  font-size: 14px ;
+  color: #666666; 
+}
+h2{
+  font-size: 20px;
+  text-align: center;
+  color: #666666;
+}
